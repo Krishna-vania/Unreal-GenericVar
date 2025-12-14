@@ -2,7 +2,7 @@
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "3.0",
-	"FriendlyName": "Generic Standalone",
+	"FriendlyName": "Generic Variables",
 	"Description": "Standalone, type-safe generic variable system extracted from MaidGameFramework — a complete data container with full blueprint support.",
 	"Category": "Game",
 	"CreatedBy": "bot hopps",
