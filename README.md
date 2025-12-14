@@ -83,7 +83,7 @@ FGeneric Foo = FLinearColor::White;
 float MyFloat = Foo.As<float>();
 
 // Object handling
-FGeneric ObjVar = MyActor;
+FGeneric ObjVar = (UObject*)MyActor;
 UObject* RetrievedObj = ObjVar;
 
 // Struct support
