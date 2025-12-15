@@ -55,12 +55,14 @@ After installation, you should see:
 - Boolean, integers (8-64 bit), floating point (float/double)
 - FName, FString, UObject pointers, TSubclassOf
 - Soft object and class pointers
+- Weak object and class pointers
 
 ### Common Struct Types
 - FVector, FVector2D, FVector4, FIntVector, FIntPoint
 - FRotator, FQuat, FTransform, FMatrix
 - FLinearColor, FColor, FPlane, FGuid
 - UE5-specific types (FVector2f, FVector3f, FVector4f, FMatrix44f)
+- All other USTRUCTs
 
 ### Container Types
 - TArray for fundamental types (int32, float, FString, FName, UObject*)
