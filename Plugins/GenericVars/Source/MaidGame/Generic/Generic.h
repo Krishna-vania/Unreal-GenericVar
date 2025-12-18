@@ -526,7 +526,7 @@ public:
 		else if constexpr (TIsIntegral<CppTypeNoCV>::Value || TIsUEnum<CppTypeNoCV>)
 		{
 			using TDestType = typename std::conditional_t<TIsUEnum<CppTypeNoCV>, TUnderlyingType<CppTypeNoCV>, CppTypeNoCV>;
-			if (GetPlainSize() < sizeof(CppTypeNoCV))
+			if (GetPlainSize() == 0)
 				if (Data.IsEmpty())
 					return static_cast<CppTypeNoCV>(TDestType(0));
 				else
