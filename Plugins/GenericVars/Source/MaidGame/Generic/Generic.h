@@ -42,6 +42,8 @@ struct FGenericPropJunkPrivate
 
 private:
 	friend struct FGeneric;
+	template<class> friend struct UScriptStruct::TCppStructOps;
+	FGenericPropJunkPrivate() { FMemory::Memzero(*this); }
 
 	// Primary data types
 	UPROPERTY() bool Bool;
